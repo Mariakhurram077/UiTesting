@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ui Testing Task</string>
+    <string name="ui_testing">Ui Testing</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="submit">Submit</string>
+</resources>
